@@ -1,0 +1,8 @@
+{
+    "author": "yonguo",
+    "description": "...",
+    "extension": null,
+    "generator": "site",
+    "title": "CEM GitBook",
+    "plugins": ["toggle-chapters"]
+}
